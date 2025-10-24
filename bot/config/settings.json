@@ -1,0 +1,20 @@
+{
+  "bot_name": "LiteS-Userbot",
+  "version": "1.0.0",
+  "owner_id": 6976551745,
+  "owner_username": "AlwaysPrimess",
+  "github_repo": "AlwaysPrimess/Ubot-LiteS",
+  "support_link": "https://t.me/Lite_Xbot",
+  "payment_info": {
+    "auto_payment": true,
+    "trial_days": 12
+  },
+  "features": [
+    "Broadcast",
+    "Auto PM",
+    "Custom Prefix",
+    "Loyalty Point",
+    "Trial 12 Hari",
+    "Anti Delay Reset"
+  ]
+}
