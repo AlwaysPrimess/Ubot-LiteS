@@ -1,0 +1,6 @@
+python-telegram-bot==20.7
+telethon==1.34.0
+requests
+aiohttp
+pytz
+python-dotenv
